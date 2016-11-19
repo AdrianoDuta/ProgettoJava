@@ -4,6 +4,7 @@ public class OrdinaThread extends Thread {
 	
 	private int[] array;
 	
+	//commento
 	
 	public Ordina(int[] array) {
 		this.array = array;
