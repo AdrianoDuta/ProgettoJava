@@ -19,6 +19,7 @@ public class MainClass {
 			System.err.println(e.toString());
 			// Thread.yield();
 		}
+// commento
 		
 		System.out.println("\n\n ARRAY ORDINATO : ");
 		stampaArray(array);
